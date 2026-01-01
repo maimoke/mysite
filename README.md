@@ -1,1 +1,1 @@
-for testing login system
+django tutorial
